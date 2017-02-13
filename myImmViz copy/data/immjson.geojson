@@ -1,0 +1,1400 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "13753",
+            "928644": "683473",
+            "Northern Europe": "United Kingdom (inc. Crown Dependencies)"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "310243",
+            "928644": " excluding England and Scotland",
+            "Northern Europe": "United Kingdom"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "9589",
+            "928644": "319734",
+            "Northern Europe": "England"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3645",
+            "928644": "53496",
+            "Northern Europe": "Scotland"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6262",
+            "928644": "120144",
+            "Northern Europe": "Ireland"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "2609",
+            "928644": "29039",
+            "Northern Europe": "Denmark"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "2645",
+            "928644": "24982",
+            "Northern Europe": "Norway"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3628",
+            "928644": "46335",
+            "Northern Europe": "Sweden"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "2648",
+            "928644": "24671",
+            "Northern Europe": "Other Northern Europe"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "16839",
+            "928644": "964714",
+            "Northern Europe": "Western Europe"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3026",
+            "928644": "43401",
+            "Northern Europe": "Austria"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "2938",
+            "928644": "34232",
+            "Northern Europe": "Belgium"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "8607",
+            "928644": "173561",
+            "Northern Europe": "France"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "12124",
+            "928644": "585298",
+            "Northern Europe": "Germany"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6180",
+            "928644": "88580",
+            "Northern Europe": "Netherlands"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3317",
+            "928644": "37115",
+            "Northern Europe": "Switzerland"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "776",
+            "928644": "2527",
+            "Northern Europe": "Other Western Europe"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "16505",
+            "928644": "787767",
+            "Northern Europe": "Southern Europe"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6452",
+            "928644": "141325",
+            "Northern Europe": "Greece"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "11766",
+            "928644": "352492",
+            "Northern Europe": "Italy"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "8390",
+            "928644": "176803",
+            "Northern Europe": "Portugal"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3439",
+            "928644": "27072",
+            "Northern Europe": "Azores Islands"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6903",
+            "928644": "108953",
+            "Northern Europe": "Spain"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "2545",
+            "928644": "8194",
+            "Northern Europe": "Other Southern Europe"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "29599",
+            "928644": "2097040",
+            "Northern Europe": "Eastern Europe"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "9135",
+            "928644": "89744",
+            "Northern Europe": "Albania"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5339",
+            "928644": "56958",
+            "Northern Europe": "Belarus"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5183",
+            "928644": "67377",
+            "Northern Europe": "Bulgaria"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3546",
+            "928644": "36978",
+            "Northern Europe": "Croatia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5112",
+            "928644": "66631",
+            "Northern Europe": "Czechoslovakia (includes Czech Republic and Slovakia)"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5330",
+            "928644": "70255",
+            "Northern Europe": "Hungary"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "2476",
+            "928644": "21364",
+            "Northern Europe": "Latvia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3872",
+            "928644": "31458",
+            "Northern Europe": "Lithuania"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "4621",
+            "928644": "26277",
+            "Northern Europe": "Macedonia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5058",
+            "928644": "43564",
+            "Northern Europe": "Moldova"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "12547",
+            "928644": "419332",
+            "Northern Europe": "Poland"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "7917",
+            "928644": "159546",
+            "Northern Europe": "Romania"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "13859",
+            "928644": "386529",
+            "Northern Europe": "Russia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "11934",
+            "928644": "345620",
+            "Northern Europe": "Ukraine"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "9021",
+            "928644": "107969",
+            "Northern Europe": "Bosnia and Herzegovina"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "4673",
+            "928644": "36969",
+            "Northern Europe": "Serbia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "8453",
+            "928644": "130469",
+            "Northern Europe": "Other Eastern Europe"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "11497",
+            "928644": " n.e.c.",
+            "Northern Europe": "Europe"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "43120",
+            "928644": "4085872",
+            "Northern Europe": "Eastern Asia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "35859",
+            "928644": "2676697",
+            "Northern Europe": "China"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "2065431",
+            "928644": " excluding Hong Kong and Taiwan",
+            "Northern Europe": "China"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "7808",
+            "928644": "233373",
+            "Northern Europe": "Hong Kong"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "12637",
+            "928644": "377893",
+            "Northern Europe": "Taiwan"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "11198",
+            "928644": "335767",
+            "Northern Europe": "Japan"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "20054",
+            "928644": "1060019",
+            "Northern Europe": "Korea"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3024",
+            "928644": "13389",
+            "Northern Europe": "Other Eastern Asia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "44695",
+            "928644": "3797442",
+            "Northern Europe": "South Central Asia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6928",
+            "928644": "70653",
+            "Northern Europe": "Afghanistan"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "14479",
+            "928644": "228682",
+            "Northern Europe": "Bangladesh"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "31113",
+            "928644": "2389639",
+            "Northern Europe": "India"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "14189",
+            "928644": "394223",
+            "Northern Europe": "Iran"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3389",
+            "928644": "29859",
+            "Northern Europe": "Kazakhstan"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "8823",
+            "928644": "120886",
+            "Northern Europe": "Nepal"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "17427",
+            "928644": "379435",
+            "Northern Europe": "Pakistan"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5613",
+            "928644": "52971",
+            "Northern Europe": "Sri Lanka"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5987",
+            "928644": "65375",
+            "Northern Europe": "Uzbekistan"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "7114",
+            "928644": "65719",
+            "Northern Europe": "Other South Central Asia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "40229",
+            "928644": "4228958",
+            "Northern Europe": "South Eastern Asia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "9301",
+            "928644": "166268",
+            "Northern Europe": "Cambodia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "7010",
+            "928644": "90833",
+            "Northern Europe": "Indonesia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "9812",
+            "928644": "197016",
+            "Northern Europe": "Laos"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5119",
+            "928644": "69308",
+            "Northern Europe": "Malaysia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "10011",
+            "928644": "137567",
+            "Northern Europe": "Burma"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "30007",
+            "928644": "1982369",
+            "Northern Europe": "Philippines"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3382",
+            "928644": "36252",
+            "Northern Europe": "Singapore"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "10349",
+            "928644": "247205",
+            "Northern Europe": "Thailand"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "27733",
+            "928644": "1300515",
+            "Northern Europe": "Vietnam"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "673",
+            "928644": "1625",
+            "Northern Europe": "Other South Eastern Asia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "22530",
+            "928644": "1088369",
+            "Northern Europe": "Western Asia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "13794",
+            "928644": "215193",
+            "Northern Europe": "Iraq"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6876",
+            "928644": "129680",
+            "Northern Europe": "Israel"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "8063",
+            "928644": "81767",
+            "Northern Europe": "Jordan"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3643",
+            "928644": "31781",
+            "Northern Europe": "Kuwait"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "8361",
+            "928644": "119613",
+            "Northern Europe": "Lebanon"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "8403",
+            "928644": "96783",
+            "Northern Europe": "Saudi Arabia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6286",
+            "928644": "82681",
+            "Northern Europe": "Syria"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6088",
+            "928644": "44337",
+            "Northern Europe": "Yemen"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "8283",
+            "928644": "116336",
+            "Northern Europe": "Turkey"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6658",
+            "928644": "86217",
+            "Northern Europe": "Armenia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "7429",
+            "928644": "83981",
+            "Northern Europe": "Other Western Asia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "48538",
+            "928644": "n.e.c.",
+            "Northern Europe": "Asia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "21605",
+            "928644": "612560",
+            "Northern Europe": "Eastern Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5274",
+            "928644": "39063",
+            "Northern Europe": "Eritrea"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "13680",
+            "928644": "228745",
+            "Northern Europe": "Ethiopia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "10130",
+            "928644": "129905",
+            "Northern Europe": "Kenya"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "7277",
+            "928644": "89153",
+            "Northern Europe": "Somalia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "9018",
+            "928644": "125694",
+            "Northern Europe": "Other Eastern Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "11508",
+            "928644": "128584",
+            "Northern Europe": "Middle Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "7568",
+            "928644": "51172",
+            "Northern Europe": "Cameroon"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "9776",
+            "928644": "77412",
+            "Northern Europe": "Other Middle Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "15019",
+            "928644": "345832",
+            "Northern Europe": "Northern Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "11556",
+            "928644": "185872",
+            "Northern Europe": "Egypt"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5503",
+            "928644": "71654",
+            "Northern Europe": "Morocco"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6708",
+            "928644": "46037",
+            "Northern Europe": "Sudan"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "4655",
+            "928644": "42269",
+            "Northern Europe": "Other Northern Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6281",
+            "928644": "98865",
+            "Northern Europe": "Southern Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5867",
+            "928644": "94141",
+            "Northern Europe": "South Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "1384",
+            "928644": "4724",
+            "Northern Europe": "Other Southern Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "24249",
+            "928644": "766341",
+            "Northern Europe": "Western Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5264",
+            "928644": "43352",
+            "Northern Europe": "Cabo Verde"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "10846",
+            "928644": "155532",
+            "Northern Europe": "Ghana"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "7804",
+            "928644": "79497",
+            "Northern Europe": "Liberia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "18271",
+            "928644": "323635",
+            "Northern Europe": "Nigeria"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5812",
+            "928644": "42065",
+            "Northern Europe": "Sierra Leone"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "9856",
+            "928644": "122260",
+            "Northern Europe": "Other Western Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "110075",
+            "928644": " n.e.c.",
+            "Northern Europe": "Africa"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6339",
+            "928644": "113277",
+            "Northern Europe": "Australia and New Zealand Subregion"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5527",
+            "928644": "83573",
+            "Northern Europe": "Australia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "2990",
+            "928644": "29704",
+            "Northern Europe": "Other Australian and New Zealand Subregion"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "4822",
+            "928644": "41936",
+            "Northern Europe": "Fiji"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "83450",
+            "928644": " n.e.c.",
+            "Northern Europe": "Oceania"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "88225",
+            "928644": "22111409",
+            "Northern Europe": "Latin America"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "49473",
+            "928644": "4165453",
+            "Northern Europe": "Caribbean"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3735",
+            "928644": "34796",
+            "Northern Europe": "Bahamas"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "4829",
+            "928644": "51739",
+            "Northern Europe": "Barbados"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "23840",
+            "928644": "1210674",
+            "Northern Europe": "Cuba"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "4110",
+            "928644": "32370",
+            "Northern Europe": "Dominica"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "28770",
+            "928644": "1063239",
+            "Northern Europe": "Dominican Republic"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3185",
+            "928644": "29982",
+            "Northern Europe": "Grenada"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "22289",
+            "928644": "675546",
+            "Northern Europe": "Haiti"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "19231",
+            "928644": "711134",
+            "Northern Europe": "Jamaica"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "2820",
+            "928644": "22950",
+            "Northern Europe": "St. Vincent and the Grenadines"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "8816",
+            "928644": "227295",
+            "Northern Europe": "Trinidad and Tobago"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "4485",
+            "928644": "33011",
+            "Northern Europe": "West Indies"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6064",
+            "928644": "72717",
+            "Northern Europe": "Other Caribbean"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "80951",
+            "928644": "15027927",
+            "Northern Europe": "Central America"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "77644",
+            "928644": "11643298",
+            "Northern Europe": "Mexico"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5371",
+            "928644": "48811",
+            "Northern Europe": "Belize"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5646",
+            "928644": "90109",
+            "Northern Europe": "Costa Rica"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "31379",
+            "928644": "1352357",
+            "Northern Europe": "El Salvador"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "23812",
+            "928644": "927593",
+            "Northern Europe": "Guatemala"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "25695",
+            "928644": "599030",
+            "Northern Europe": "Honduras"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "12391",
+            "928644": "256171",
+            "Northern Europe": "Nicaragua"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5810",
+            "928644": "103625",
+            "Northern Europe": "Panama"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "1586",
+            "928644": "6933",
+            "Northern Europe": "Other Central America"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "40362",
+            "928644": "2918029",
+            "Northern Europe": "South America"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "9339",
+            "928644": "181233",
+            "Northern Europe": "Argentina"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6898",
+            "928644": "78093",
+            "Northern Europe": "Bolivia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "15675",
+            "928644": "361374",
+            "Northern Europe": "Brazil"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "6986",
+            "928644": "95104",
+            "Northern Europe": "Chile"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "20772",
+            "928644": "699399",
+            "Northern Europe": "Colombia"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "19017",
+            "928644": "441257",
+            "Northern Europe": "Ecuador"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "12349",
+            "928644": "281408",
+            "Northern Europe": "Guyana"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "17981",
+            "928644": "445921",
+            "Northern Europe": "Peru"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "5051",
+            "928644": "43971",
+            "Northern Europe": "Uruguay"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "13320",
+            "928644": "255520",
+            "Northern Europe": "Venezuela"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "3674",
+            "928644": "34749",
+            "Northern Europe": "Other South America"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "17172",
+            "928644": "838476",
+            "Northern Europe": "Northern America"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "17129",
+            "928644": "830628",
+            "Northern Europe": "Canada"
+         }
+      },
+      {
+         "type": "Feature",
+         "geometry": {},
+         "properties": {
+            "16770": "1589",
+            "928644": "7848",
+            "Northern Europe": "Other Northern America"
+         }
+      }
+   ]
+}

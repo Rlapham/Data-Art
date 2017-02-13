@@ -1,0 +1,51 @@
+<!-- Leaflet reference: http://leafletjs.com/reference.html -->
+<!-- Omnivore reference: https://github.com/mapbox/leaflet-omnivore -->
+
+<!DOCTYPE html>
+<head>
+    <style>
+    body {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+    }
+    
+    html,
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+    }
+
+    .legend {
+        line-height: 18px;
+        color: #888;
+}
+    .legend i {
+        width: 28px;
+        height: 12px;
+        float: left;
+        margin-right: 8px;
+        opacity: 0.9;
+}
+
+
+    </style>
+    <title> myImmViz </title>
+    <script src='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js'></script>
+    <link href='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.css' rel='stylesheet'>
+    <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+    <script src="leaflet.geocsv.js"></script>
+
+    <!-- <script type="text/javascript" src="processing.js"></script> -->
+    
+</head>
+
+<body>
+    <div id="map"></div>
+    <script src='script.js'></script>
+  <!--   <canvas data-processing-sources="immviz.pde"></canvas> -->
+</body>
+
+</html>

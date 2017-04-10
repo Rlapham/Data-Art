@@ -1,0 +1,137 @@
+<!-- Leaflet reference: http://leafletjs.com/reference.html -->
+<!-- Omnivore reference: https://github.com/mapbox/leaflet-omnivore -->
+
+<!DOCTYPE html>
+<head>
+    <style>
+    body {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+    }
+    
+    html,
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+        z-index: -1; 
+    }
+
+    .legend {
+        line-height: 18px;
+        color: #888;
+}
+    .legend i {
+        width: 28px;
+        height: 12px;
+        float: left;
+        margin-right: 8px;
+        opacity: 0.9;
+}
+
+    .myButton {
+       color: white;
+       background: black;
+       font-family: Verdana, Geneva, sans-serif;
+       position: absolute;
+       border-style: none;
+       padding: 0px;
+       top: 4.5%;
+       width: 10%;
+       left: 45%;
+       outline: 0 none;
+       opacity: .5; 
+    }
+    .myInput {
+       color: white;
+       background: black;
+       font-family: Verdana, Geneva, sans-serif;
+       position: absolute;
+       border-top-color: black;
+       border-left-color: black;
+       border-right-color: black;
+       border-bottom-width: .5px; 
+       border-bottom-color: white;
+       box-shadow: black;
+       outline: 0 none;
+       padding: 0px;
+       top: 2%;
+       width: 30%;
+       left: 35%;
+       opacity: .5; 
+    }
+
+     .myInfo {
+       color: white;
+       background: black;
+       font-family: Verdana, Geneva, sans-serif;
+       position: absolute;
+       border-top-color: black;
+       border-left-color: black;
+       border-right-color: black;
+       border-bottom-width: .5px; 
+       border-bottom-color: white;
+       box-shadow: black;
+       outline: 0 none;
+       padding: 0px;
+       top: 0%;
+       height: 15%;
+       width: 10%;
+       left: 90%;
+       opacity: .5; 
+    }
+
+/*    #rectangle{
+      color: white;
+       background: black;
+       font-family: Verdana, Geneva, sans-serif;
+       position: absolute;
+       border-top-color: black;
+       border-left-color: white;
+       border-right-color: black;
+       border-bottom-width: .5px; 
+       border-left-width: .5px; 
+       border-bottom-color: white;
+       box-shadow: black;
+       outline: 0 none;
+       padding: 0px;
+       top: 0%;
+       height: 30%;
+       width: 20%;
+       left: 80%;
+       opacity: .2; 
+}
+    #rectangle:hover {
+        opacity: 1.0;
+        filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+*/
+    </style>
+    <title> Solar </title>
+    <script src='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.js'></script>
+    <link href='https://api.mapbox.com/mapbox.js/v3.0.1/mapbox.css' rel='stylesheet'>
+        <script src='https://api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+
+    <script src="libraries/p5.js" type="text/javascript"></script>
+    <script src="libraries/p5.dom.js" type="text/javascript"></script>
+    <script src="libraries/p5.sound.js" type="text/javascript"></script>
+
+
+</head>
+
+<body>
+
+    <div id="rectangle"></div>
+    <div id="map"></div>
+    <script src='script.js'></script>
+  
+
+
+
+    </script>
+</body>
+
+</html>
